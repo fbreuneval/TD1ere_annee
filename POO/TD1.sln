@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecosysteme", "ecosysteme\ecosysteme.csproj", "{A065B52F-2687-48CD-9AF4-D95DD7D258A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicule", "vehicule\vehicule.csproj", "{968C3A3C-4913-4622-8370-645E939516EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A065B52F-2687-48CD-9AF4-D95DD7D258A0}.Debug|x86.ActiveCfg = Debug|x86
+		{A065B52F-2687-48CD-9AF4-D95DD7D258A0}.Debug|x86.Build.0 = Debug|x86
+		{A065B52F-2687-48CD-9AF4-D95DD7D258A0}.Release|x86.ActiveCfg = Release|x86
+		{A065B52F-2687-48CD-9AF4-D95DD7D258A0}.Release|x86.Build.0 = Release|x86
+		{968C3A3C-4913-4622-8370-645E939516EA}.Debug|x86.ActiveCfg = Debug|x86
+		{968C3A3C-4913-4622-8370-645E939516EA}.Debug|x86.Build.0 = Debug|x86
+		{968C3A3C-4913-4622-8370-645E939516EA}.Release|x86.ActiveCfg = Release|x86
+		{968C3A3C-4913-4622-8370-645E939516EA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

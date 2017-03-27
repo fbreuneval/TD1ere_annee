@@ -1,0 +1,4 @@
+H:\TD1ereannee\TD1\ecosysteme\bin\Debug\ecosysteme.exe
+H:\TD1ereannee\TD1\ecosysteme\bin\Debug\ecosysteme.pdb
+H:\TD1ereannee\TD1\ecosysteme\obj\x86\Debug\ecosysteme.exe
+H:\TD1ereannee\TD1\ecosysteme\obj\x86\Debug\ecosysteme.pdb
