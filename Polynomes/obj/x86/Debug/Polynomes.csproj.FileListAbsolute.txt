@@ -1,0 +1,4 @@
+H:\TD1ere_annee\POO2\Polynomes\bin\Debug\Polynomes.exe
+H:\TD1ere_annee\POO2\Polynomes\bin\Debug\Polynomes.pdb
+H:\TD1ere_annee\POO2\Polynomes\obj\x86\Debug\Polynomes.exe
+H:\TD1ere_annee\POO2\Polynomes\obj\x86\Debug\Polynomes.pdb
